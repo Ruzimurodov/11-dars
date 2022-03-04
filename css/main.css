@@ -1,0 +1,12 @@
+body {
+    background-color: #a9a9a9;
+}
+
+li {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 22px;
+    font-weight: 600;
+    color: #333;
+}
